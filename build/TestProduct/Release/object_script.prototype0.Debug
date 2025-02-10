@@ -1,0 +1,14 @@
+debug/classviewlayout.o
+debug/login.o
+debug/loweredit.o
+debug/main.o
+debug/mainwindow.o
+debug/numberdelegate.o
+debug/registerform.o
+debug/percentagedelegate.o
+debug/studentdialog.o
+debug/moc_classviewlayout.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_registerform.o
+debug/moc_studentdialog.o
